@@ -1,3 +1,5 @@
+#Faiz ul haque Zeya
+#Recursive feature elimination with SVM with various no. of features
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)\n
 from sklearn.svm import LinearSVC
